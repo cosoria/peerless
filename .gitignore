@@ -1,0 +1,10 @@
+~$tup Guide.docx
+/WICED/build
+*.pyc
+
+.vscode/*
+
+/LinkIt/openwrt/package/network/utils/wwan/files/data/*
+/LinkIt/openwrt/package/utils/usbmode/data/*
+
+
