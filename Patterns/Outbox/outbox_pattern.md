@@ -1,5 +1,4 @@
 # Outbox Pattern 
-----
 
 ## Definition
 This pattern is exactly like the local outbox that your preferred email client has to handle sending messages on a disconnected manner.
